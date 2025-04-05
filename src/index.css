@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.bg {
+  background-color: rgba(14, 11, 11, 0.5); /* Gray color with 50% transparency */
+  backdrop-filter: blur(10px); /* Optional: Adds a glass-like blur effect */
+}
